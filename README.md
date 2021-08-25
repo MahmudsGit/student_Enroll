@@ -2,7 +2,7 @@
  ~there have no Registration option as a user
  ~Existing one user, User information was directly inserted into database
  
- ~Project Overview: 
+ # Project Overview: 
        * dynamic vew of Enrolled students number in home page
        * log in to the system (without loging in viewrs can't view studentlist and student details or enrolled any student)
        * Login information 'Email: admin@gmail.com' 'password: 123'
