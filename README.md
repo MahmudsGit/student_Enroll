@@ -1,6 +1,6 @@
- ~student_Enroll is a tiny project, create for parctice purpuse 
- ~there have no Registration option as a user
- ~Existing one user, User information was directly inserted into database
+ * student_Enroll is a tiny project, create for parctice purpuse. 
+ * there have no Registration option as a user.
+ * Existing one user, User information was directly inserted into database.
  
  # Project Overview: 
        * dynamic vew of Enrolled students number in home page
